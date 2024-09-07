@@ -3,7 +3,7 @@
 ### This project about API testing and automation for the Dmoney API. I worked on API testing and integration for the dmoney API, focusing on automated basic CRUD tasks for the Dmoney API
 ### Here is the documentation of API testing   [Document](https://documenter.getpostman.com/view/38027626/2sAXjRV9Nw)
 ### This is the [Test Cases](https://docs.google.com/spreadsheets/d/1rD9c9xP-u0_uSoer8yoH7oTGDynIoEeS/edit?usp=sharing&ouid=101075542155023217336&rtpof=true&sd=true) report of this project
-### This is the [Bug Report]() of this project
+### This is the [Bug Report](https://docs.google.com/spreadsheets/d/1VPJAAtUEl7H3X4qA8eDZZtfKH1DICF-x/edit?usp=sharing&ouid=101075542155023217336&rtpof=true&sd=true) of this project
 ### Newman Report screenshots :
 ![image](https://github.com/user-attachments/assets/3bf08d18-0c66-4c7e-90d1-bb1aa51b6a20)
 ![image](https://github.com/user-attachments/assets/5257dd19-38bc-4fc2-bf0b-1314df862598)
